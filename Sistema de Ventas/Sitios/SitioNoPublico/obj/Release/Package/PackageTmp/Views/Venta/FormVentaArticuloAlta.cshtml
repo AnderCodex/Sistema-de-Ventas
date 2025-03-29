@@ -1,0 +1,80 @@
+﻿@model EC.VentaArticulo
+
+@{
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Agregar Artículos a la Venta</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Mensaje))
+{
+    <div class="alert alert-warning">
+        @ViewBag.Mensaje
+    </div>
+}
+
+
+<h3>Artículos Agregados</h3>
+@ViewBag.Mensaje
+<table class="table">
+    <thead>
+        <tr>
+            <th>Artículo</th>
+            <th>Cantidad</th>
+            <th>Precio Unitario</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var articulo in ViewBag.ArticulosAgregados)
+        {
+            <tr>
+                <td>@articulo.unArt.NombreArt</td>
+                <td>@articulo.CantArticulos</td>
+                <td>@articulo.unArt.Precio</td>
+                <td>@(articulo.unArt.Precio * articulo.CantArticulos)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@using (Html.BeginForm("FormVentaArticuloAlta", "Venta", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Agregar Artículo</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        
+        <div class="form-group">
+            <label class="control-label col-md-2">Artículo:</label>
+            <div class="col-md-10">
+                @Html.DropDownList("coaArt", ViewBag.ListaArticulos as SelectList, "Seleccione un artículo", new { @class = "form-control" })
+            </div>
+        </div>
+
+       
+        <div class="form-group">
+            @Html.LabelFor(model => model.CantArticulos, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CantArticulos, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CantArticulos, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Agregar Artículo" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+
+
+<div>
+    @Html.ActionLink("Finalizar Venta", "GuardarVenta", null, new { @class = "btn btn-success" })
+</div>

@@ -1,0 +1,45 @@
+﻿@model EC.Categoria
+
+@{
+    ViewBag.Title = "FormEliminarCate";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Eliminar Categoria</h2>
+
+<h3>Esta seguro que desa Eliminar?</h3>
+
+@ViewBag.Mensaje
+<div>
+    <h4>Categoria</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Codigo_Cate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codigo_Cate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+       @Html.HiddenFor(model => model.Codigo_Cate) 
+
+      <div class="form-actions no-color">
+          <input type="submit" value="Eliminar" class="btn btn-danger" />
+            @Html.ActionLink("Volver", "FormListCategoria", "Categoria", null, new { @class = "btn btn-secondary" })
+       </div>}
+</div>

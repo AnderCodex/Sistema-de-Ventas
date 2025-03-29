@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\bin\Release\Logica.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\bin\Release\Logica.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\bin\Release\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\bin\Release\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\bin\Release\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\bin\Release\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\obj\Release\Logica.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\obj\Release\Logica.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\obj\Release\Logica.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\obj\Release\Logica.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Logica\obj\Release\Logica.pdb

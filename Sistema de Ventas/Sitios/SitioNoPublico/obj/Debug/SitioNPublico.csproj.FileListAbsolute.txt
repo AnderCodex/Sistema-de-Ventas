@@ -1,0 +1,2 @@
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNPublico.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNPublico.csproj.CoreCompileInputs.cache

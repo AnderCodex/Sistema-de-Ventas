@@ -1,0 +1,54 @@
+﻿@model IEnumerable<EC.Clientes>
+
+@{
+    ViewBag.Title = "FormListCliente";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Listado de Cliente</h2>
+
+@ViewBag.Mensaje
+<p>
+    @Html.ActionLink("Nuevo Cliente", "FormAltaCliente")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CiCli)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreCliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumTarj)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefono)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (EC.Clientes ciCli in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => ciCli.CiCli)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => ciCli.NombreCliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => ciCli.NumTarj)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => ciCli.Telefono)
+        </td>
+        <td>
+            @Html.ActionLink("Modificar", "FormModificarCliente", new { ciCli=ciCli.CiCli }) |
+            @Html.ActionLink("Detalle", "FormDetalleCliente", new { ciCli= ciCli.CiCli }) |
+            
+
+        </td>
+    </tr>
+}
+
+</table>

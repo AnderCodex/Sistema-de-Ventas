@@ -1,0 +1,336 @@
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Logica.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Logica.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Persistencia.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll.config
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Logica.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\WebGrease.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Logica.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll.config
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\EC.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Logica.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\WebGrease.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Persistencia.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\EC.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Logica.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\Persistencia.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CopyComplete
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll.config
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\SitioNoPublico.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Logica.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\PagedList.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\WebGrease.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Logica.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\PagedList.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\PagedList.Mvc.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\es\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\es\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\es\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\SitioNoPublico\obj\Debug\SitioNoPublico.pdb

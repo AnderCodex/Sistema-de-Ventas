@@ -1,0 +1,73 @@
+﻿@model IEnumerable<EC.Venta>
+
+@{
+    ViewBag.Title = "FormListarVenta";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>FormListarVenta</h2>
+
+@ViewBag.Mensaje
+
+@using (Html.BeginForm())
+{
+    <table>
+        
+        <tr>
+            <td>Fecha:  @Html.TextBox("FFecha", "")</td>
+            <td>Estado:  @Html.TextBox("FiltroC", "")</td>
+            
+            <td><input type="submit" value="Filtrar" class="btn btn-default" /></td>
+           
+                            
+            <td>@Html.ActionLink("Limpiar", "FormListarVenta", null, new { @class = "btn btn-default" }) </td>
+            
+        </tr>
+    </table>}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NumVenta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MontoTotal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaVenta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DirEnvio)
+        </th>
+        <th>
+            @Html.Label("Estado")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (EC.Venta item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DirEnvio)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.ListEstado.Last().UnEstado.NombreEstado)
+            </td>
+            <td>
+                @Html.ActionLink("Asignar Estado", "GenerarEstado", new { numVenta = item.NumVenta }) |
+
+            </td>
+        </tr>
+    }
+
+</table>

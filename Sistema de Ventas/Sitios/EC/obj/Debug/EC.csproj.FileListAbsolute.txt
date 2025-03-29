@@ -1,0 +1,45 @@
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\ModeloEF.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\ModeloEF.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\ModeloEF.dll.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\EC\bin\Debug\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\EC\obj\Debug\EC.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\EC\bin\Debug\EC.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\EC\bin\Debug\EC.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\EC\obj\Debug\EC.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\EC\obj\Debug\EC.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\EC\obj\Debug\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\bin\Debug\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\bin\Debug\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\obj\Debug\EC.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\obj\Debug\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\obj\Debug\EC.pdb

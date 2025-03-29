@@ -1,0 +1,32 @@
+﻿@model IEnumerable<EC.Articulo>
+
+@{
+    ViewBag.Title = "Artículos Comprados por el Cliente";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Artículos Comprados por el Cliente</h2>
+
+<table class="table">
+    <tr>
+        <th>Código</th>
+        <th>Nombre</th>
+        <th>Precio</th>
+        <th>Tamaño</th>
+        <th>Fecha de Vencimiento</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CodigoArt</td>
+            <td>@item.NombreArt</td>
+            <td>@item.Precio</td>
+            <td>@item.Tamaño</td>
+            <td>@item.FechaVenc</td>
+        </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Volver al listado de clientes", "FormListintCliente")
+</p>

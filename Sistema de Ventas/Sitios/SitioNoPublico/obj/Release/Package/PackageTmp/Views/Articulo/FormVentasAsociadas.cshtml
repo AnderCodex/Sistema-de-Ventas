@@ -1,0 +1,28 @@
+﻿@model IEnumerable<EC.Venta>
+
+@{
+    ViewBag.Title = "Ventas Asociadas";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Ventas Asociadas</h2>
+
+@ViewBag.Mensaje
+
+<table class="table">
+    <tr>
+        <th>Número de Venta</th>
+        <th>Fecha de Venta</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.NumVenta</td>
+            <td>@item.FechaVenta.ToShortDateString()</td>
+        </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Volver al listado", "FormListIntArticulo")
+</p>

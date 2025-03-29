@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SistemaVentasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Articulo">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TipoPresentacion" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Precio" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="Tamaño" Type="Int32" Nullable="false" />
+    <Property Name="FechaVenc" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Codigo_Cate" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Categoria" Relationship="Self.FK__Articulo__Codigo__0F975522" FromRole="Articulo" ToRole="Categoria" />
+  </EntityType>
+  <EntityType Name="Categoria">
+    <Key>
+      <PropertyRef Name="Codigo_Cate" />
+    </Key>
+    <Property Name="Codigo_Cate" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="CiCli" />
+    </Key>
+    <Property Name="CiCli" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NumTarj" Type="String" MaxLength="16" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Telefono" Type="String" MaxLength="15" FixedLength="true" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Empleado">
+    <Key>
+      <PropertyRef Name="UsuLog" />
+    </Key>
+    <Property Name="UsuLog" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PassUsu" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EstadoVenta">
+    <Key>
+      <PropertyRef Name="IdEstado" />
+    </Key>
+    <Property Name="IdEstado" Type="Int32" Nullable="false" />
+    <Property Name="NombreEstado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Venta">
+    <Key>
+      <PropertyRef Name="NumVenta" />
+    </Key>
+    <Property Name="NumVenta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MontoTotal" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="FechaVenta" Type="DateTime" Precision="3" Nullable="false" />
+    <Property Name="DirEnvio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CiCli" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="UsuLog" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Clientes" Relationship="Self.FK__Venta__CiCli__20C1E124" FromRole="Venta" ToRole="Clientes" />
+    <NavigationProperty Name="Empleado" Relationship="Self.FK__Venta__UsuLog__21B6055D" FromRole="Venta" ToRole="Empleado" />
+    <NavigationProperty Name="VentaArticulo" Relationship="Self.FK__VentaArti__NumVe__276EDEB3" FromRole="Venta" ToRole="VentaArticulo" />
+    <NavigationProperty Name="EstadoGenerado" Relationship="SistemaVentasModel.FK__EstadoGen__NVent__300424B4" FromRole="Venta" ToRole="EstadoGenerado" />
+  </EntityType>
+  <EntityType Name="VentaArticulo">
+    <Key>
+      <PropertyRef Name="NumVenta" />
+      <PropertyRef Name="CodArt" />
+    </Key>
+    <Property Name="NumVenta" Type="Int32" Nullable="false" />
+    <Property Name="CodArt" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CantArticulos" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Articulo" Relationship="Self.FK__VentaArti__CodAr__286302EC" FromRole="VentaArticulo" ToRole="Articulo" />
+  </EntityType>
+  <Association Name="FK__Articulo__Codigo__0F975522">
+    <End Role="Categoria" Type="Self.Categoria" Multiplicity="1" />
+    <End Role="Articulo" Type="Self.Articulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categoria">
+        <PropertyRef Name="Codigo_Cate" />
+      </Principal>
+      <Dependent Role="Articulo">
+        <PropertyRef Name="Codigo_Cate" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__VentaArti__CodAr__286302EC">
+    <End Role="Articulo" Type="Self.Articulo" Multiplicity="1" />
+    <End Role="VentaArticulo" Type="Self.VentaArticulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Articulo">
+        <PropertyRef Name="Codigo" />
+      </Principal>
+      <Dependent Role="VentaArticulo">
+        <PropertyRef Name="CodArt" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Venta__CiCli__20C1E124">
+    <End Role="Clientes" Type="Self.Clientes" Multiplicity="1" />
+    <End Role="Venta" Type="Self.Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clientes">
+        <PropertyRef Name="CiCli" />
+      </Principal>
+      <Dependent Role="Venta">
+        <PropertyRef Name="CiCli" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Venta__UsuLog__21B6055D">
+    <End Role="Empleado" Type="Self.Empleado" Multiplicity="1" />
+    <End Role="Venta" Type="Self.Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="UsuLog" />
+      </Principal>
+      <Dependent Role="Venta">
+        <PropertyRef Name="UsuLog" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__VentaArti__NumVe__276EDEB3">
+    <End Role="Venta" Type="Self.Venta" Multiplicity="1" />
+    <End Role="VentaArticulo" Type="Self.VentaArticulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Venta">
+        <PropertyRef Name="NumVenta" />
+      </Principal>
+      <Dependent Role="VentaArticulo">
+        <PropertyRef Name="NumVenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SistemaVentasEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Articulo" EntityType="Self.Articulo" />
+    <EntitySet Name="Categoria" EntityType="Self.Categoria" />
+    <EntitySet Name="Clientes" EntityType="Self.Clientes" />
+    <EntitySet Name="Empleado" EntityType="Self.Empleado" />
+    <EntitySet Name="EstadoVenta" EntityType="Self.EstadoVenta" />
+    <EntitySet Name="Venta" EntityType="Self.Venta" />
+    <EntitySet Name="VentaArticulo" EntityType="Self.VentaArticulo" />
+    <AssociationSet Name="FK__Articulo__Codigo__0F975522" Association="Self.FK__Articulo__Codigo__0F975522">
+      <End Role="Categoria" EntitySet="Categoria" />
+      <End Role="Articulo" EntitySet="Articulo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__VentaArti__CodAr__286302EC" Association="Self.FK__VentaArti__CodAr__286302EC">
+      <End Role="Articulo" EntitySet="Articulo" />
+      <End Role="VentaArticulo" EntitySet="VentaArticulo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Venta__CiCli__20C1E124" Association="Self.FK__Venta__CiCli__20C1E124">
+      <End Role="Clientes" EntitySet="Clientes" />
+      <End Role="Venta" EntitySet="Venta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Venta__UsuLog__21B6055D" Association="Self.FK__Venta__UsuLog__21B6055D">
+      <End Role="Empleado" EntitySet="Empleado" />
+      <End Role="Venta" EntitySet="Venta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__VentaArti__NumVe__276EDEB3" Association="Self.FK__VentaArti__NumVe__276EDEB3">
+      <End Role="Venta" EntitySet="Venta" />
+      <End Role="VentaArticulo" EntitySet="VentaArticulo" />
+    </AssociationSet>
+    <EntitySet Name="EstadoGenerado" EntityType="SistemaVentasModel.EstadoGenerado" />
+    <AssociationSet Name="FK__EstadoGen__NVent__300424B4" Association="SistemaVentasModel.FK__EstadoGen__NVent__300424B4">
+      <End Role="Venta" EntitySet="Venta" />
+      <End Role="EstadoGenerado" EntitySet="EstadoGenerado" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EstadoGen__T_Est__2F10007B" Association="SistemaVentasModel.FK__EstadoGen__T_Est__2F10007B">
+      <End Role="EstadoVenta" EntitySet="EstadoVenta" />
+      <End Role="EstadoGenerado" EntitySet="EstadoGenerado" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="EstadoGenerado">
+    <Key>
+      <PropertyRef Name="T_Estado" />
+      <PropertyRef Name="NVenta" />
+    </Key>
+    <Property Name="T_Estado" Type="Int32" Nullable="false" />
+    <Property Name="NVenta" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="EstadoVenta" Relationship="SistemaVentasModel.FK__EstadoGen__T_Est__2F10007B" FromRole="EstadoGenerado" ToRole="EstadoVenta" />
+  </EntityType>
+  <Association Name="FK__EstadoGen__NVent__300424B4">
+    <End Type="SistemaVentasModel.Venta" Role="Venta" Multiplicity="1" />
+    <End Type="SistemaVentasModel.EstadoGenerado" Role="EstadoGenerado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Venta">
+        <PropertyRef Name="NumVenta" />
+      </Principal>
+      <Dependent Role="EstadoGenerado">
+        <PropertyRef Name="NVenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EstadoGen__T_Est__2F10007B">
+    <End Type="SistemaVentasModel.EstadoVenta" Role="EstadoVenta" Multiplicity="1" />
+    <End Type="SistemaVentasModel.EstadoGenerado" Role="EstadoGenerado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EstadoVenta">
+        <PropertyRef Name="IdEstado" />
+      </Principal>
+      <Dependent Role="EstadoGenerado">
+        <PropertyRef Name="T_Estado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

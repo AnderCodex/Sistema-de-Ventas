@@ -1,0 +1,40 @@
+﻿@model IEnumerable<EC.Clientes>
+
+@{
+    ViewBag.Title = "Listado Interactivo de Clientes";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Listado Interactivo de Clientes</h2>
+
+@ViewBag.Mensaje
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Nombre del Cliente: @Html.TextBox("Filtro", "")</td>
+            <td><input type="submit" value="Filtrar" class="btn btn-default" /></td>
+            <td>@Html.ActionLink("Limpiar", "FormListintCliente", null, new { @class = "btn btn-default" })</td>
+        </tr>
+    </table>
+}
+
+<table class="table">
+    <tr>
+        <th>Cédula</th>
+        <th>Nombre</th>
+        <th>Acciones</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CiCli</td>
+            <td>@item.NombreCliente</td>
+            <td>
+                @Html.ActionLink("Ver Ventas", "FormVentasCli", new { CiCli = item.CiCli }) |
+                @Html.ActionLink("Ver Artículos", "FormArticulosCli", new { CiCli = item.CiCli })
+            </td>
+        </tr>
+    }
+</table>

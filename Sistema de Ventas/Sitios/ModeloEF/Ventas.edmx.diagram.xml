@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="92805136ad96428e80596ffaf361d526" Name="Diagram1">
+        <EntityTypeShape EntityType="SistemaVentasModel.Articulo" Width="1.5" PointX="7.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SistemaVentasModel.Categoria" Width="1.5" PointX="10" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SistemaVentasModel.Clientes" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SistemaVentasModel.Empleado" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SistemaVentasModel.EstadoVenta" Width="1.5" PointX="7.5" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SistemaVentasModel.Venta" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SistemaVentasModel.VentaArticulo" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="SistemaVentasModel.FK__Articulo__Codigo__0F975522" ManuallyRouted="false" />
+        <AssociationConnector Association="SistemaVentasModel.FK__VentaArti__CodAr__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="SistemaVentasModel.FK__Venta__CiCli__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="SistemaVentasModel.FK__Venta__UsuLog__21B6055D" ManuallyRouted="false" />
+        <AssociationConnector Association="SistemaVentasModel.FK__VentaArti__NumVe__276EDEB3" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="SistemaVentasModel.EstadoGenerado" Width="1.5" PointX="5.375" PointY="4.375" />
+        <AssociationConnector Association="SistemaVentasModel.FK__EstadoGen__NVent__300424B4" />
+        <AssociationConnector Association="SistemaVentasModel.FK__EstadoGen__T_Est__2F10007B" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

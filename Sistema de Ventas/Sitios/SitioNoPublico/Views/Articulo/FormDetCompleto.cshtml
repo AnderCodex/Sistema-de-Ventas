@@ -1,0 +1,37 @@
+﻿@model EC.Articulo
+
+@{
+    ViewBag.Title = "Detalles del Artículo";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Detalles del Artículo</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>Código:</dt>
+        <dd>@Model.CodigoArt</dd>
+
+        <dt>Nombre:</dt>
+        <dd>@Model.NombreArt</dd>
+
+        <dt>Precio:</dt>
+        <dd>@Model.Precio.ToString("C")</dd>
+
+        <dt>Tamaño:</dt>
+        <dd>@Model.Tamaño</dd>
+
+        <dt>Fecha de Vencimiento:</dt>
+        <dd>@Model.FechaVenc</dd>
+
+        <dt>Categoría:</dt>
+        <dd>@Model.UnaCat.Nombre</dd>
+
+        <dt>Tipo de Presentación:</dt>
+        <dd>@Model.TipoPresentación</dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Volver al listado", "FormListIntArticulo")
+</p>

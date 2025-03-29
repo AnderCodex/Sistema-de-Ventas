@@ -1,0 +1,74 @@
+﻿@model EC.Articulo
+
+@{
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Eliminar Artículo</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Mensaje))
+{
+    <div class="alert alert-warning">
+        @ViewBag.Mensaje
+    </div>
+}
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoArt)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CodigoArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoPresentación)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TipoPresentación)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreArt)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NombreArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tamaño)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Tamaño)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaVenc)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FechaVenc)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+       
+        @Html.HiddenFor(model => model.CodigoArt)
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" onclick="return confirm('¿Está seguro que desea eliminar este artículo?');" /> |
+            @Html.ActionLink("Volver", "FormListArticulo", null, new { @class = "btn btn-secondary" })
+        </div>
+    }
+</div>

@@ -1,0 +1,9 @@
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Release\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Release\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Release\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Release\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Release\Persistencia.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Release\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Release\Persistencia.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Release\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Release\Persistencia.pdb

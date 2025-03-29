@@ -1,0 +1,45 @@
+﻿@model IEnumerable<EC.Articulo>
+
+@{
+    ViewBag.Title = "Listado Interactivo de Artículos";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Listado Interactivo de Artículos</h2>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Nombre Artículo: @Html.TextBox("FiltroNom", "")</td>
+            <td>Categoría: @Html.TextBox("FiltroC", "")</td>
+            <td><input type="submit" value="Filtrar" class="btn btn-default" /></td>
+            <td>@Html.ActionLink("Limpiar", "FormListIntArticulo", null, new { @class = "btn btn-default" })</td>
+        </tr>
+    </table>
+}
+
+<table class="table">
+    <tr>
+        <th>Código</th>
+        <th>Nombre</th>
+        <th>Precio</th>
+        <th>Tamaño</th>
+        <th>Fecha Vencimiento</th>
+        <th>Acciones</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CodigoArt</td>
+            <td>@item.NombreArt</td>
+            <td>@item.Precio.ToString("C")</td>
+            <td>@item.Tamaño</td>
+            <td>@item.FechaVenc.ToShortDateString()</td>
+            <td>
+                @Html.ActionLink("Ver Ventas", "FormVentasAsociadas", new { Cod = item.CodigoArt }) |
+                @Html.ActionLink("Detalles", "FormDetCompleto", new { Cod = item.CodigoArt })
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SistemaVentasModelStoreContainer" CdmEntityContainer="SistemaVentasEntities">
+    <EntitySetMapping Name="Articulo">
+      <EntityTypeMapping TypeName="SistemaVentasModel.Articulo">
+        <MappingFragment StoreEntitySet="Articulo">
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="TipoPresentacion" ColumnName="TipoPresentacion" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Tamaño" ColumnName="Tamaño" />
+          <ScalarProperty Name="FechaVenc" ColumnName="FechaVenc" />
+          <ScalarProperty Name="Codigo_Cate" ColumnName="Codigo_Cate" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categoria">
+      <EntityTypeMapping TypeName="SistemaVentasModel.Categoria">
+        <MappingFragment StoreEntitySet="Categoria">
+          <ScalarProperty Name="Codigo_Cate" ColumnName="Codigo_Cate" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="SistemaVentasModel.Clientes">
+        <MappingFragment StoreEntitySet="Clientes">
+          <ScalarProperty Name="CiCli" ColumnName="CiCli" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="NumTarj" ColumnName="NumTarj" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Empleado">
+      <EntityTypeMapping TypeName="SistemaVentasModel.Empleado">
+        <MappingFragment StoreEntitySet="Empleado">
+          <ScalarProperty Name="UsuLog" ColumnName="UsuLog" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="PassUsu" ColumnName="PassUsu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EstadoVenta">
+      <EntityTypeMapping TypeName="SistemaVentasModel.EstadoVenta">
+        <MappingFragment StoreEntitySet="EstadoVenta">
+          <ScalarProperty Name="IdEstado" ColumnName="IdEstado" />
+          <ScalarProperty Name="NombreEstado" ColumnName="NombreEstado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Venta">
+      <EntityTypeMapping TypeName="SistemaVentasModel.Venta">
+        <MappingFragment StoreEntitySet="Venta">
+          <ScalarProperty Name="NumVenta" ColumnName="NumVenta" />
+          <ScalarProperty Name="MontoTotal" ColumnName="MontoTotal" />
+          <ScalarProperty Name="FechaVenta" ColumnName="FechaVenta" />
+          <ScalarProperty Name="DirEnvio" ColumnName="DirEnvio" />
+          <ScalarProperty Name="CiCli" ColumnName="CiCli" />
+          <ScalarProperty Name="UsuLog" ColumnName="UsuLog" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VentaArticulo">
+      <EntityTypeMapping TypeName="SistemaVentasModel.VentaArticulo">
+        <MappingFragment StoreEntitySet="VentaArticulo">
+          <ScalarProperty Name="NumVenta" ColumnName="NumVenta" />
+          <ScalarProperty Name="CodArt" ColumnName="CodArt" />
+          <ScalarProperty Name="CantArticulos" ColumnName="CantArticulos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EstadoGenerado">
+      <EntityTypeMapping TypeName="SistemaVentasModel.EstadoGenerado">
+        <MappingFragment StoreEntitySet="EstadoGenerado">
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="NVenta" ColumnName="NVenta" />
+          <ScalarProperty Name="T_Estado" ColumnName="T_Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

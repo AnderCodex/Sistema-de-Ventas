@@ -1,0 +1,58 @@
+﻿@model IEnumerable<EC.Categoria>
+
+@{
+    ViewBag.Title = "FormListCategoria";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Listado de Categoria</h2>
+
+<p>
+    @Html.ActionLink("Nueva Categoria", "FormAltaCate")
+</p>
+
+@ViewBag.Mensaje
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <div>
+            @Html.TextBox("Filtro") 
+            <input type="submit" value="Filtrar" class="btn btn-default" />
+        </div>
+    </div>}
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo_Cate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (EC.Categoria unC in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => unC.Codigo_Cate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => unC.Nombre)
+            </td>
+            <td>
+                @Html.ActionLink("Modificar", "FromModificarCategoria", new { Cod_Cate = unC.Codigo_Cate }) |
+                @Html.ActionLink("Detalles", "FormDetalleCate", new { Cod_Cate = unC.Codigo_Cate }) |
+                @Html.ActionLink("Eliminar", "FormEliminarCate", new { Cod_Cate = unC.Codigo_Cate })
+
+            </td>
+        </tr>
+    }
+
+</table>

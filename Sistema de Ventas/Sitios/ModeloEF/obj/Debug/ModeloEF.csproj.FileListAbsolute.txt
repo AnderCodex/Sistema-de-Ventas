@@ -1,0 +1,72 @@
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll.config
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll.config
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll.config
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CopyComplete
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll.config
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Debug\ModeloEF.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Debug\ModeloEF.csproj.AssemblyReference.cache

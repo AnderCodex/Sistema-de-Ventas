@@ -1,0 +1,73 @@
+﻿@model EC.Articulo
+
+@{
+    
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Detalle de Articulo</h2>
+
+@ViewBag.Mensaje
+
+<div>
+    <h4>Articulo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoPresentación)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoPresentación)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tamaño)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tamaño)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaVenc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaVenc)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnaCat)
+        </dd>
+
+    </dl>
+</div>
+<p>
+   
+    @Html.ActionLink("Volver", "FormListArticulo")
+</p>

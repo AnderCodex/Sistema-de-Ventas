@@ -1,0 +1,57 @@
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 3\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 5\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 7\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.pdb
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\USUARIO\Desktop\Entrega Final 2do año\Final 8\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\bin\Debug\EC.pdb
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\MSI\Desktop\Solucion\SistemaVenta\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Debug\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\bin\Debug\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\Persistencia\obj\Debug\Persistencia.pdb

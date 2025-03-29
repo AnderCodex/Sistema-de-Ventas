@@ -1,0 +1,5 @@
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\bin\Release\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\bin\Release\EC.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\obj\Release\EC.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\obj\Release\EC.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\EC\obj\Release\EC.pdb

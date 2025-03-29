@@ -1,0 +1,41 @@
+﻿@model EC.Venta
+
+@{
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Alta Venta</h2>
+
+@using (Html.BeginForm("FormAltaVenta", "Venta", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Venta</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+       
+        <div class="form-group">
+            <label class="control-label col-md-2">Cliente:</label>
+            <div class="col-md-10">
+                @Html.DropDownList("uncli", ViewBag.ListarCliente as SelectList, "Seleccione un cliente", new { @class = "form-control" })
+            </div>
+        </div>
+
+        
+        <div class="form-group">
+            <label class="control-label col-md-2">Dirección de Envío:</label>
+            <div class="col-md-10">
+                <input type="text" id="direccionEnvio" name="direccionEnvio" class="form-control" />
+            </div>
+        </div>
+
+       
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Continuar" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}

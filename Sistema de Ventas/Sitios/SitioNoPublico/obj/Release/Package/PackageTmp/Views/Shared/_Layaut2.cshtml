@@ -1,0 +1,41 @@
+﻿
+<!DOCTYPE html>
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sistema de Ventas </title>
+   
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+
+               | @Html.ActionLink("CRUD Categoria", "FormListCategoria", "Categoria", new { area = "" }, new { @class = "navbar-brand" })|
+               | @Html.ActionLink("CRUD Articulos", "FormListArticulo", "Articulo", new { area = "" }, new { @class = "navbar-brand" })|
+               | @Html.ActionLink("Mantenimiento Cliente", "FormListCliente", "Cliente", new { area = "" }, new { @class = "navbar-brand" })|
+               | @Html.ActionLink("Alta Venta", "FormAltaVenta", "Venta", new { area = "" }, new { @class = "navbar-brand" })|
+               | @Html.ActionLink("Listado Interactivo de Articulo", "FormListIntArticulo", "Articulo", new { area = "" }, new { @class = "navbar-brand" })|
+               | @Html.ActionLink("Listado Interactivo de Cliente", "FormListintCliente", "Cliente", new { area = "" }, new { @class = "navbar-brand" })|
+               | @Html.ActionLink("Asignar Estado", "FormListarVenta", "Venta", new { area = "" }, new { @class = "navbar-brand" })
+               | @Html.ActionLink("Deslogueo", "Deslogueo", "Usuario", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>Sistema de Ventas</p>
+        </footer>
+    </div>
+</body>
+</html>

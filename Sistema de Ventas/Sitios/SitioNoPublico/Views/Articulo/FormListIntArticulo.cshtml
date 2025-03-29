@@ -1,0 +1,50 @@
+﻿@model IEnumerable<EC.Articulo>
+
+@{
+    ViewBag.Title = "Listado Interactivo de Artículos";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2 class="text-center mb-4">Listado Interactivo de Artículos</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <label for="FiltroNom" class="form-label">Nombre Artículo:</label>
+            @Html.TextBox("FiltroNom", "", new { @class = "form-control" })
+        </div>
+        <div class="col-md-4">
+            <label for="FiltroC" class="form-label">Categoría:</label>
+            @Html.TextBox("FiltroC", "", new { @class = "form-control" })
+        </div>
+        <div class="col-md-4 d-flex align-items-end">
+            <input type="submit" value="Filtrar" class="btn btn-primary me-2" />
+            @Html.ActionLink("Limpiar", "FormListIntArticulo", null, new { @class = "btn btn-secondary" })
+        </div>
+    </div>
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                
+
+                <div class="card-body">
+                    <h5 class="card-title">@item.NombreArt</h5>
+                    <p class="card-text">
+                        <strong>Precio:</strong> @item.Precio.ToString("C")<br>
+                        <strong>Tamaño:</strong> @item.Tamaño<br>
+                        <strong>Fecha Vencimiento:</strong> @item.FechaVenc.ToShortDateString()
+                    </p>
+                </div>
+                <div class="card-footer bg-white">
+                    @Html.ActionLink("Ver Ventas", "FormVentasAsociadas", new { Cod = item.CodigoArt }, new { @class = "btn btn-outline-primary btn-sm" })
+                    @Html.ActionLink("Detalles", "FormDetCompleto", new { Cod = item.CodigoArt }, new { @class = "btn btn-outline-secondary btn-sm ms-2" })
+                </div>
+            </div>
+        </div>
+    }
+</div>

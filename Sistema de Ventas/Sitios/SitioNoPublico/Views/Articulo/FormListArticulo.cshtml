@@ -1,0 +1,89 @@
+﻿@model IEnumerable<EC.Articulo>
+
+@{
+    ViewBag.Title = "FormListArticulo";
+    Layout = "~/Views/Shared/_Layaut2.cshtml";
+}
+
+<h2>Listado de Articulos</h2>
+
+@ViewBag.Mensaje
+<p>
+    @Html.ActionLink("Nuevo Articulo", "FormAltaAart")
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <div>
+            @Html.TextBox("Filtro") 
+            <input type="submit" value="Filtrar" class="btn btn-default" />
+        </div>
+    </div>}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoArt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoPresentación)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreArt)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.UnaCat)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tamaño)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaVenc)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (EC.Articulo  unArt in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => unArt.CodigoArt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unArt.TipoPresentación)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unArt.NombreArt)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => unArt.UnaCat)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => unArt.Precio)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unArt.Tamaño)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unArt.FechaVenc)
+    </td>
+    <td>
+        @Html.ActionLink("Modificar", "FormModificarArt", new { CodArt = unArt.CodigoArt }) |
+        @Html.ActionLink("Detalles", "FormDetalleArt", new { CodArt = unArt.CodigoArt }) |
+        @Html.ActionLink("Eliminar", "FormEliminarArt", new { CodArt = unArt.CodigoArt })
+    </td>
+</tr>
+    }
+
+</table>

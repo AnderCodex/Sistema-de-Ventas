@@ -1,0 +1,12 @@
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Release\ModeloEF.dll.config
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Release\ModeloEF.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Release\ModeloEF.pdb
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Release\EntityFramework.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Release\EntityFramework.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Release\ModeloEF.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Release\ModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Release\ModeloEF.csproj.CopyComplete
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Release\ModeloEF.dll
+C:\Users\MSI\Desktop\Proyecto Final 2024\SistemaVenta\ModeloEF\obj\Release\ModeloEF.pdb
